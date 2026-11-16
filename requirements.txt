@@ -1,0 +1,8 @@
+google-genai
+pydantic
+python-dotenv
+pypdf
+PyMuPDF>=1.24,<2
+rank-bm25
+sentence-transformers
+faiss-cpu>=1.13.1
